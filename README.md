@@ -1,7 +1,7 @@
 # AlpineHASS
 Home Assistant Alpine Image
 
-Additonal:
+Additional:
 
 
 pywebpush - Android html5 notifications.
